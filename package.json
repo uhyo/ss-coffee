@@ -13,5 +13,5 @@
   },
   "dependencies": {
     "coffee-script": ">=1.6.0"
-  },
+  }
 }
