@@ -1,3 +1,8 @@
+0.1.4 / 2015-07-29
+
+* Upgraded to CoffeeScript 1.9
+* register
+
 0.1.3 / 2013-12-15
 
 * Upgraded to CoffeScript 1.6

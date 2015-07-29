@@ -3,6 +3,8 @@
 var fs = require('fs'),
     coffee = require('coffee-script');
 
+require('coffee-script/register');
+
 exports.init = function(root, config) {
 
   return {

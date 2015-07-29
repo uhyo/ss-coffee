@@ -2,7 +2,7 @@
   "name": "ss-latest-coffee",
   "author": "Owen Barnes <owen@socketstream.org>",
   "description": "CoffeeScript wrapper for SocketStream 0.3",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "./wrapper.js",
   "repository": {
     "type" : "git",
@@ -12,6 +12,6 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "coffee-script": ">=1.6.0"
+    "coffee-script": "^1.9.3"
   }
 }
